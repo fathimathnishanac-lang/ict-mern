@@ -1,0 +1,17 @@
+h3 {
+    color:red;
+    background-color:rgb(178, 214, 213);
+    border=2px;
+    border-style:solid;
+    border-color:aquamarine;
+
+}
+table,th,td {
+    border: 2px solid black;
+}
+.header1{
+    background-color:lightgray;
+    border:2px solid black;
+    margin:50px;
+    padding: 30px;
+}
